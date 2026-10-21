@@ -1,0 +1,12 @@
+[submodule "hw2/lib/forge-std"]
+	path = hw2/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "hw2/lib/openzeppelin-contracts"]
+	path = hw2/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "hw2/lib/openzeppelin-contracts-upgradeable"]
+	path = hw2/lib/openzeppelin-contracts-upgradeable
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
+[submodule "hw2/lib/openzeppelin-foundry-upgrades"]
+	path = hw2/lib/openzeppelin-foundry-upgrades
+	url = https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
